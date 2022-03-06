@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ljpatrick</title>
+    <link>https://ljpatrick.link/</link>
+    <description>Recent content in Home on ljpatrick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Mar 2022 14:56:35 +1100</lastBuildDate><atom:link href="https://ljpatrick.link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ljpatrick.link/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/about/</guid>
+      <description>Hi, I&amp;rsquo;m Liam!
+This site is my personal blog and storage spot for little projects and files. I&amp;rsquo;m hoping for it to serve as a sort of folio to showcase my writing, design, and webdev skills.
+As according to my own principles, I have decided that all projects I author will be in the public domain. As such all projects will include a CC0 waiver.
+To serve as an example, below is the waiver for the site itself:</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://ljpatrick.link/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/cv/</guid>
+      <description>.content { padding-bottom: 20px; } .info { margin: 0 -10vw; padding: 20px 10vw; }  Education Successfully completed VCE year 12 education at Sale College, graduated 2021.
+Currently enrolled in full time study at the Swinburne Institute of Technology; undertaking a double-major Bachelor of Arts.
+Work Experience  2020 to 2021 Dish washer – Avon Hotel  2018 to 2020 Sole proprietor – InDepth Computer Maintenance Skills  Cleaning Computer repair Programming Web design Word processing Writing   Contact ljpatrick@protonmail.</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://ljpatrick.link/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://ljpatrick.link/posts/2022/03/test/</link>
+      <pubDate>Sat, 05 Mar 2022 14:56:35 +1100</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/2022/03/test/</guid>
+      <description>Test post to see if everything&amp;rsquo;s working!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ljpatrick.link/posts/2022/03/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/2022/03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>https://ljpatrick.link/posts/2022/02/test-2/</link>
+      <pubDate>Sat, 05 Feb 2022 14:56:35 +1100</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/2022/02/test-2/</guid>
+      <description>Test post (again, but back in time!) to see if everything&amp;rsquo;s working!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ljpatrick.link/posts/2022/02/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/2022/02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ljpatrick.link/posts/2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ljpatrick.link/posts/2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

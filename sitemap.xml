@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ljpatrick.link/</loc>
+    <lastmod>2022-03-05T14:56:35+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/2022/03/test/</loc>
+    <lastmod>2022-03-05T14:56:35+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/2022/03/</loc>
+    <lastmod>2022-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/2022/02/test-2/</loc>
+    <lastmod>2022-02-05T14:56:35+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/2022/02/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/posts/2022/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ljpatrick.link/tags/</loc>
+  </url>
+  
+</urlset>
